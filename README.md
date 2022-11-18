@@ -73,7 +73,11 @@
 
 #### HtmlViewer (Delphi/Lazarus)
 Просмоторщик простых HTML файлов.
-Репозиторий: https://github.com/BerndGabriel/HtmlViewer
+Репозиторий: https://github.com/BerndGabriel/HtmlViewer  
+
+#### DzHTMLText (Delphi/Lazarus)
+Метка отображающая простые HTML файлы.  
+Репозиторий: https://github.com/digao-dalpiaz/DzHTMLText  
 
 ## Системные библиотеки
 #### wmi-delphi-code-creator - Доступ к WMI (Delphi/Lazarus)  
@@ -90,4 +94,14 @@
 Репозиторий: https://github.com/pyscripter/python4delphi  
 Репозиторий(форк): https://github.com/Alexey-T/Python-for-Lazarus  
 
+
+#### Skia4Delphi (Delphi)
+Биндинги Skia для Delphi, поддержка FMX.
+Репозиторий: https://github.com/skia4delphi/skia4delphi  
+Сайт: https://skia4delphi.org/  
+
+#### Vampyre Imaging Library (Delphi/Lazarus)
+Библиотека для работы с различными форматами изображений.  
+Репозиторий: https://github.com/galfar/imaginglib  
+Документация: https://imaginglib.sourceforge.io/  
 
