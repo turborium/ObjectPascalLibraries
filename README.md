@@ -94,6 +94,7 @@
 Репозиторий: https://github.com/pyscripter/python4delphi  
 Репозиторий(форк): https://github.com/Alexey-T/Python-for-Lazarus  
 
+## Графика (2D)
 #### Image32 (Delphi/Lazarus)
 Легковесная библиотека софтверной графики. Поддержка SVG.  
 Репозиторий: https://github.com/AngusJohnson/Image32   
@@ -122,4 +123,9 @@
 Библиотека для работы с различными форматами изображений.  
 Репозиторий: https://github.com/galfar/imaginglib  
 Документация: https://imaginglib.sourceforge.io/  
+
+## Обратные биндинги
+#### govcl (GoLang)
+Создание UI в Go на основе LCL. 
+Репозиторий: https://github.com/ying32/govcl  
 
