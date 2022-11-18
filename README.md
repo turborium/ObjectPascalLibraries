@@ -2,7 +2,7 @@
 Список интересных, на мой взгляд, библиотек для Delphi/Lazarus
 
 ## Редакторы текста (моноширинного/кода)
-#### ATSynEdit (Lazarus)
+#### TATSynEdit (Lazarus)
 Редактор кода, множество возможностей кастомизации, множество файлов подсветки синтаксиса.  
 Данный контрол используется в редакторе CudaText.  
 Репозиторий: https://github.com/Alexey-T/ATSynEdit   
@@ -33,8 +33,7 @@
 Набор компонентов, в том числе:
 - Написанный с нуля RTF редактор текста (KMemo)   
 - Редактор таблиц (KGrid)  
-- HEX редатор (TKHexEditor)   
-
+- HEX редатор (TKHexEditor)
 Репозиторий: https://github.com/kryslt/KControls/  
 Документация: https://wiki.freepascal.org/KControls  
 Пример использования: https://sites.google.com/site/mynotex/  
@@ -44,6 +43,30 @@
 Репозиторий: https://github.com/skalogryz/richmemo/  
 Информация: https://wiki.freepascal.org/RichMemo
 
+## Прочие компоненты
+#### RibbonFramework (Delphi)
+Поддержка Ribbon интерфейса для Delphi.  
+Репозиторий: https://github.com/JAM-Software/RibbonFramework  
 
+#### VirtualTreeView (Delphi/Lazarus)
+Классический компонент для отображения древовидных структур данных и всего остального.  
+Уже встроен в Lazarus.  
+Репозиторий: https://github.com/JAM-Software/Virtual-TreeView  
+Примеры использования: Тысячи приложений, в том числе Delphi IDE.  
+
+#### vcl-styles-utils
+Дополнения для движка тем Delphi, позволяющее кастомизировать системные диалоги, цвета и т.д.
+Репозиторий: https://github.com/RRUZ/vcl-styles-utils  
+Информация: https://theroadtodelphi.com/  
+
+## Системные библиотеки
+#### wmi-delphi-code-creator - Доступ к WMI (Delphi/Lazarus)  
+Репозиторий: https://github.com/RRUZ/wmi-delphi-code-creator  
+
+#### DDetours - Создание HOOK-ов для WinApi функций (Delphi/Lazarus)  
+Репозиторий: https://github.com/MahdiSafsafi/DDetours
+
+#### tsmbios - Доступ к SMBIOS (System Management BIOS)
+Репозиторий: https://github.com/RRUZ/tsmbios
 
 
