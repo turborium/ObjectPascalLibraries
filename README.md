@@ -94,9 +94,27 @@
 Репозиторий: https://github.com/pyscripter/python4delphi  
 Репозиторий(форк): https://github.com/Alexey-T/Python-for-Lazarus  
 
+#### Image32 (Delphi/Lazarus)
+Легковесная библиотека софтверной графики. Поддержка SVG.  
+Репозиторий: https://github.com/AngusJohnson/Image32   
+Документация: http://www.angusj.com/delphi/image32/Docs/  
+Дополнение для работы с обрезкой полигонов: https://github.com/AngusJohnson/Clipper2  
+
+#### Graphics32 (Delphi/Lazarus)
+Библиотека софтверной графики с большой историей.  
+Репозиторий: https://github.com/graphics32/graphics32  
+Документация: https://graphics32.github.io/Docs  
+Дополнительно: В интернете имеется очень много информации по данной библиотеке.  
+
+#### BGRABitmap (Lazarus)
+Библиотека софтверной графики.   
+Репозиторий: https://github.com/bgrabitmap/bgrabitmap  
+Порт(устарел) для Delphi: https://github.com/edivando-fpc/BGRABitmap  
+Документация: https://wiki.freepascal.org/BGRABitmap  
+Пример использования: https://lazpaint.github.io/   
 
 #### Skia4Delphi (Delphi)
-Биндинги Skia для Delphi, поддержка FMX.
+Биндинги Skia для Delphi, поддержка FMX.  
 Репозиторий: https://github.com/skia4delphi/skia4delphi  
 Сайт: https://skia4delphi.org/  
 
