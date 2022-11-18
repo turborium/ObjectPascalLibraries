@@ -34,6 +34,7 @@
 - Написанный с нуля RTF редактор текста (KMemo)   
 - Редактор таблиц (KGrid)  
 - HEX редатор (TKHexEditor)   
+
 Репозиторий: https://github.com/kryslt/KControls/  
 Документация: https://wiki.freepascal.org/KControls  
 Пример использования: https://sites.google.com/site/mynotex/  
