@@ -17,6 +17,8 @@
 Репозиторий: https://github.com/TextEditorPro/TTextEditor   
 Пример использования: https://texteditor.pro/  
 История: https://en.delphipraxis.net/topic/4441-tbceditor-text-editor-component/  
+Старые компоненты: https://github.com/delphioracle/Components-Backup-ONLY  
+Старая версия редактора: https://github.com/LaKraven/TBCEditor  
 
 #### TSynEdit (Delphi/Lazarus)
 Классический редактор кода для Delphi/Lazarus.  
@@ -48,16 +50,30 @@
 Поддержка Ribbon интерфейса для Delphi.  
 Репозиторий: https://github.com/JAM-Software/RibbonFramework  
 
+#### AXWRibbon (Delphi)
+Иммитация Ribbon интерфейса для Delphi.  
+Страница: https://www.axolot.com/axwribbon.htm  
+Страница загрузки: https://www.axolot.com/download.htm  
+Копия: в этом репозитории  
+
 #### VirtualTreeView (Delphi/Lazarus)
 Классический компонент для отображения древовидных структур данных и всего остального.  
 Уже встроен в Lazarus.  
 Репозиторий: https://github.com/JAM-Software/Virtual-TreeView  
 Примеры использования: Тысячи приложений, в том числе Delphi IDE.  
 
-#### vcl-styles-utils
-Дополнения для движка тем Delphi, позволяющее кастомизировать системные диалоги, цвета и т.д.
+#### vcl-styles-utils (Delphi)
+Дополнения для движка тем Delphi, позволяющее кастомизировать системные диалоги, цвета и т.д.  
 Репозиторий: https://github.com/RRUZ/vcl-styles-utils  
 Информация: https://theroadtodelphi.com/  
+
+#### zControls (Инспектор объектов) (Delphi/Lazarus)
+Репозиторий: https://github.com/MahdiSafsafi/zControls  
+Альтернатива: https://github.com/delphioracle/Components-Backup-ONLY  
+
+#### HtmlViewer (Delphi/Lazarus)
+Просмоторщик простых HTML файлов.
+Репозиторий: https://github.com/BerndGabriel/HtmlViewer
 
 ## Системные библиотеки
 #### wmi-delphi-code-creator - Доступ к WMI (Delphi/Lazarus)  
@@ -66,7 +82,12 @@
 #### DDetours - Создание HOOK-ов для WinApi функций (Delphi/Lazarus)  
 Репозиторий: https://github.com/MahdiSafsafi/DDetours
 
-#### tsmbios - Доступ к SMBIOS (System Management BIOS)
+#### tsmbios - Доступ к SMBIOS (System Management BIOS) (Delphi/Lazarus)  
 Репозиторий: https://github.com/RRUZ/tsmbios
+
+#### python4delphi (Delphi/Lazarus)
+Библиотека для интеграции Python и Delphi/Lazarus.  
+Репозиторий: https://github.com/pyscripter/python4delphi  
+Репозиторий(форк): https://github.com/Alexey-T/Python-for-Lazarus  
 
 
