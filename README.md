@@ -35,7 +35,8 @@
 Набор компонентов, в том числе:
 - Написанный с нуля RTF редактор текста (KMemo)   
 - Редактор таблиц (KGrid)  
-- HEX редатор (TKHexEditor)
+- HEX редатор (TKHexEditor)  
+
 Репозиторий: https://github.com/kryslt/KControls/  
 Документация: https://wiki.freepascal.org/KControls  
 Пример использования: https://sites.google.com/site/mynotex/  
@@ -72,7 +73,7 @@
 Альтернатива: https://github.com/delphioracle/Components-Backup-ONLY  
 
 #### HtmlViewer (Delphi/Lazarus)
-Просмоторщик простых HTML файлов.
+Просмоторщик простых HTML файлов.  
 Репозиторий: https://github.com/BerndGabriel/HtmlViewer  
 
 #### DzHTMLText (Delphi/Lazarus)
